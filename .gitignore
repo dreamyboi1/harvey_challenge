@@ -3,6 +3,7 @@ Hurricane_Harvey/
 .ipynb_checkpoints/
 ray_results/
 util/config_oskar.ini
+util/config.ini
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
